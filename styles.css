@@ -1,0 +1,17 @@
+.titulo-producto{
+    color: green;
+    font-weight: bold;
+}
+
+.description-producto {
+    color: red;
+}
+
+.link-producto {
+    color: purple;
+    text-decoration: underline;
+}
+
+.img-producto {
+    width: 500px;
+}
